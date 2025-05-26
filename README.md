@@ -1,3 +1,3 @@
 Currently, I am:
- * Learning Rust by writing an application and a library
- * Reading about option volatility and markov chains
+ * Using Rust in production to build AI enhanced marketing tools for Revmatics.ai
+ * Building a race telemetry analysis service
